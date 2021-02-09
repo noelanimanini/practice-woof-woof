@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+}
+
+.dog-bar {
+    display: flex;
+    flex-direction: row;
+}
